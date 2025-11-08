@@ -1,0 +1,16 @@
+playwright
+fastapi
+uvicorn[standard]
+# Tripgain Gemini Integration Project
+# Python 3.8+ required
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# Web scraping and HTML parsing
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Optional: for better compatibility
+lxml>=4.9.0
+python-dotenv>=0.20.0
